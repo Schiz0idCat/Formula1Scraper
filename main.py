@@ -104,7 +104,6 @@ def getInputInt(mensaje):
 
 
 def recolectarDatos(yearsList, url):
-
     print("Iniciando recolección...")
 
     data = []
